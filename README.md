@@ -7,3 +7,5 @@ This is the first file.
 
 this is the continued first attempt at git.
 
+more stuff to the file
+
